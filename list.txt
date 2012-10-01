@@ -1,6 +1,9 @@
 List of Websites hosted on Amazon Cloud
+
 Netflix
 
 pintrest is hosted on Amazon Cloud (added by shu)
 
 Instagram --Added by Stephen Sanchez
+
+DropBox --added by Kaile Liang
